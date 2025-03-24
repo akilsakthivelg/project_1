@@ -1,1 +1,3 @@
 the sample abc file created in the main branch
+this is an abc sample text file
+//the merge conflict resolved
